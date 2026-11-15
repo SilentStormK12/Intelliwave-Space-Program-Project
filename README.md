@@ -1,6 +1,6 @@
-# Outpost Ares — Mars Base Commander
+# Outpost Ares, Mars Base Commander
 
-A 3D browser game for ages 7–12. You are an astronaut commanding a small base in Jezero Crater.
+A 3D browser game for ages 7-12. You are an astronaut commanding a small base in Jezero Crater.
 Keep the crew alive for 10 sols while doing as much science as you can. Every radiation storm in
 the game is a real solar event recorded by NASA.
 
